@@ -14,6 +14,7 @@ To use this code, you can compile it using a C compiler. Here are the steps:
 5. Run the compiled program by executing the following command:
    
       ```./SAHH_BPP -s data_file -o solution_file -t max_time```
+   
    where
    data_file is one of the problem instance files (binpack1.txt / binpack3.txt / binpack11.txt)
    max_time is the maximum time permitted for a single run of this algorithm
