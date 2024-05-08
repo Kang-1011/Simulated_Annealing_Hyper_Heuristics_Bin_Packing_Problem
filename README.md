@@ -17,5 +17,7 @@ To use this code, you can compile it using a C compiler. Here are the steps:
    
    where
    data_file is one of the problem instance files (binpack1.txt / binpack3.txt / binpack11.txt)
+   
    max_time is the maximum time permitted for a single run of this algorithm
+   
    solution_file is the file for the output of the solutions
