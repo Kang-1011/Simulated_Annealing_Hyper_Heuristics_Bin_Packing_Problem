@@ -9,8 +9,10 @@ To use this code, you can compile it using a C compiler. Here are the steps:
 1. Open a terminal or command prompt.
 2. Navigate to the directory where the `AIM_CW.c` file is located.
 3. Compile the code by running the following command:
+   
       ```gcc -std=c99 -lm SAHH_BPP.c -o SAHH_BPP```
-4. Run the compiled program by executing the following command:
+5. Run the compiled program by executing the following command:
+   
       ```./SAHH_BPP -s data_file -o solution_file -t max_time```
    where
    data_file is one of the problem instance files (binpack1.txt / binpack3.txt / binpack11.txt)
